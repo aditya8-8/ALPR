@@ -1,7 +1,7 @@
 
-# AVPMS (Automatic Vehicle Pass Management system)
+# ALPR (Automatic Licence Plate Recognition)
 
-This app is designed for Vehicle Pass Management at a college. Security guards can use the app to scan vehicle number plates and verify if the vehicle is registered in the college's database
+This app is designed for Gate Pass Management at a college Campus. Security guards can use the app to scan vehicle number plates and verify if the vehicle is registered in the college's database
 
 
 ## Features
