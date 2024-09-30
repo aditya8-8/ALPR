@@ -13,7 +13,7 @@ This app is designed for Gate Pass Management at a college Campus. Security guar
 
 ## Installation and Usage
 
-- **Download** the [APK package](https://github.com/Meghhaah/AVPMS/releases/tag/v1.0).
+- **Download** the [APK package](https://github.com/aditya8-8/ALPR/releases/tag/1.0).
 
 - Open the app on your device.
 - Capture the vehicle's number plate using the camera feature.
