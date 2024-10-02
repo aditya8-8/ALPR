@@ -34,26 +34,12 @@ Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?
   <img src="assets/Screenshot3.jpg" width="260" alt="3"/>
 </div>
 
-## Contributing
-We welcome contributions to enhance the AVPMS. To contribute:
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m "Add new feature"
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Open a pull request.
-
 ## Acknowledgements
 
  - [ParkPow: The base code used in this project served as a fundamental starting point for the development of our AVPMS. We appreciate the work done by the developers and contributors of this project.](https://github.com/parkpow/alpr-anpr-android)
 
 ## Appendix
 - You can also build it from source. We recommand using [Android Studio](https://developer.android.com/studio).
+
+## Contributing
+We welcome contributions to enhance the AVPMS. To contribute:
