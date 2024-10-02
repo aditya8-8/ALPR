@@ -42,4 +42,4 @@ Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?
 - You can also build it from source. We recommand using [Android Studio](https://developer.android.com/studio).
 
 ## Contributing
-We welcome contributions to enhance the AVPMS. To contribute:
+We welcome contributions to enhance the AVPMS.
