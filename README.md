@@ -1,4 +1,5 @@
 
+![Logo](https://github.com/aditya8-8/ALPR/blob/main/Logo.png?raw=true)
 # AVPMS (Automatic Vehicle Pass Management system)
 
 This app is designed for Vehicle Pass Management at a college. Security guards can use the app to scan vehicle number plates and verify if the vehicle is registered in the college's database
