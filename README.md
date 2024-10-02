@@ -28,9 +28,9 @@ Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/Screenshot1.jpg" width="300" alt="1" style="margin-right: 10px;"/>
-  <img src="assets/Screenshot2.jpg" width="300" alt="2" style="margin-right: 10px;"/>
-  <img src="assets/Screenshot3.jpg" width="300" alt="3"/>
+  <img src="assets/Screenshot1.jpg" width="280" alt="1" style="margin-right: 10px;"/>
+  <img src="assets/Screenshot2.jpg" width="280" alt="2" style="margin-right: 10px;"/>
+  <img src="assets/Screenshot3.jpg" width="280" alt="3"/>
 </div>
 
 ## Contributing
